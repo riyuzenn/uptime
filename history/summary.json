@@ -4,9 +4,9 @@
     "url": "https://riyuzenn.me",
     "icon": "https://favicons.githubusercontent.com/riyuzenn.me",
     "slug": "zenn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 331,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "blog",
