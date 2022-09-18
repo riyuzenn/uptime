@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/riyuzenn.me",
     "slug": "zenn",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 189,
-    "timeDay": 43,
-    "timeWeek": 133,
-    "timeMonth": 177,
-    "timeYear": 189,
+    "uptimeYear": "99.97%",
+    "time": 265,
+    "timeDay": 3385,
+    "timeWeek": 609,
+    "timeMonth": 277,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2022-08-26": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 291,
-    "timeWeek": 270,
-    "timeMonth": 348,
-    "timeYear": 396,
+    "time": 411,
+    "timeDay": 1009,
+    "timeWeek": 399,
+    "timeMonth": 376,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   }
 ]
