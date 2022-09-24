@@ -5,11 +5,11 @@ repo: uptime # The name of this repository
 sites:
   - name: main
     url: https://riyuzenn.me
-    
-  - name: portfolio (yuzu) 
+
+  - name: portfolio (yuzu)
     url: https://n.riyuzenn.me
 
- - name: portfolio (haruka)
+  - name: portfolio (haruka)
     url: https://t.riyuzenn.me
 
   - name: blog (line)
@@ -29,6 +29,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
