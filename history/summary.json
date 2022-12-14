@@ -22,18 +22,20 @@
     "url": "https://n.riyuzenn.me",
     "icon": "https://icons.duckduckgo.com/ip3/n.riyuzenn.me.ico",
     "slug": "portfolio-yuzu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 34,
-    "timeWeek": 835,
-    "timeMonth": 348,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 38,
+    "timeWeek": 736,
+    "timeMonth": 337,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2022-12-14": 0
+    }
   },
   {
     "name": "portfolio (haruka)",
