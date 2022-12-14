@@ -22,19 +22,19 @@
     "url": "https://n.riyuzenn.me",
     "icon": "https://icons.duckduckgo.com/ip3/n.riyuzenn.me.ico",
     "slug": "portfolio-yuzu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 38,
-    "timeWeek": 736,
-    "timeMonth": 337,
-    "timeYear": 227,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 226,
+    "timeDay": 73,
+    "timeWeek": 670,
+    "timeMonth": 330,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-12-14": 0
+      "2022-12-14": 29
     }
   },
   {
